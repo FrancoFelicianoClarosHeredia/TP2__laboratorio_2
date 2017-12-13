@@ -1,0 +1,8 @@
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\obj\Debug\Prueba_Consola.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\bin\Debug\Prueba_Consola.exe.config
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\bin\Debug\Prueba_Consola.exe
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\bin\Debug\Prueba_Consola.pdb
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\bin\Debug\Calculadora.dll
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\bin\Debug\Calculadora.pdb
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\obj\Debug\Prueba_Consola.exe
+F:\Visual Studio 2015\Calculadora\Prueba_Consola\obj\Debug\Prueba_Consola.pdb

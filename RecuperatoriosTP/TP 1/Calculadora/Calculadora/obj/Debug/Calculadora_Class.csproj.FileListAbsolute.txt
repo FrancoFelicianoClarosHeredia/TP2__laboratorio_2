@@ -1,0 +1,5 @@
+F:\Visual Studio 2015\Calculadora\Calculadora\obj\Debug\Calculadora_Class.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+F:\Visual Studio 2015\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Visual Studio 2015\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+F:\Visual Studio 2015\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,11 @@
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\bin\Debug\WF_Calculadora.exe.config
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\bin\Debug\WF_Calculadora.exe
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\bin\Debug\WF_Calculadora.pdb
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.Form1.resources
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.Properties.Resources.resources
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.exe
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\obj\Debug\WF_Calculadora.pdb
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\bin\Debug\Calculadora.dll
+F:\Visual Studio 2015\Calculadora\WF_Calculadora\bin\Debug\Calculadora.pdb

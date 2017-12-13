@@ -1,0 +1,22 @@
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\mscorlib.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\System.Net.Http.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\System.Net.Http.xml
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\normidna.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\normnfc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\normnfd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\normnfkc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\normnfkd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Excepciones\bin\Debug\Excepciones.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Excepciones\obj\Debug\Excepciones.pdb

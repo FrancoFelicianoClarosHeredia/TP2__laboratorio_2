@@ -1,0 +1,49 @@
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.dll
+F:\Visual Studio 2015\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\mscorlib.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\normidna.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\normnfc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\normnfd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\normnfkc.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\normnfkd.nlp
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\00\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Test Unitarios.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Clases Instanciable.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Excepciones.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\Archivos.pdb
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.dll
+F:\Visual Studio 2015\TP3_Pagotto\Nueva carpeta\TP3_Pagotto\Clases Abstractas\Test Unitarios\obj\Debug\Test Unitarios.pdb
